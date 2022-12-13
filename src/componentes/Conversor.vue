@@ -11,7 +11,7 @@
          <br>
       <h4> Respuestas a las preguntas </h4>
 
-      <p> respuestas : 1  , 2 ,3 ,4 ,5 
+      <p> Respuestas;  1:c  , 2:b ,3:c ,4:a ,5:c  </p>
 
   </section>
 
